@@ -1,5 +1,5 @@
 # 📄  Question Answering System
-A simple Q&A webapp made using streamlit to process text built using RoBerTa Model from Huggingface Transformers 🤗.
+A simple Q&A webapp made using streamlit to process text built using RoBerTa Model 🤗.
 
 
 
