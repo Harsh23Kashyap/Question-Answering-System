@@ -1,9 +1,10 @@
 # 📄  Question Answering System
 A simple Q&A webapp made using streamlit to process text built using RoBerTa Model from Huggingface Transformers 🤗.
 
-![plain_text](https://user-images.githubusercontent.com/29462447/152040979-3746ce6e-fbd5-4c00-8b6b-50b526a9ba6b.gif)
 
-![pdf](https://user-images.githubusercontent.com/29462447/152040990-2fc3645a-4a7b-4a1b-a308-4b3ceae85407.gif)
+
+https://user-images.githubusercontent.com/55448981/206790425-c7d4e057-70db-47a2-8308-1b4a6f6aa701.mp4
+
 
 
 ## Installation:
@@ -20,13 +21,3 @@ streamlit run app.py
 ```
 streamlit run app.py --server.maxUploadSize=1028
 ```
-
-## Results:
-1. Perform Q&A on random text on the fly!
-![plain_text](https://user-images.githubusercontent.com/29462447/152040979-3746ce6e-fbd5-4c00-8b6b-50b526a9ba6b.gif)
-
-
-2. Upload your document ***(supports PDFs, Word Files, Text files)*** and perform Q&A:
-
-![docx](https://user-images.githubusercontent.com/29462447/152041322-1ed4e76f-614c-40ec-b9e6-b2274f77ff87.gif)
-![pdf](https://user-images.githubusercontent.com/29462447/152040990-2fc3645a-4a7b-4a1b-a308-4b3ceae85407.gif)
