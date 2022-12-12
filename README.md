@@ -1,7 +1,7 @@
 # 📄  Question Answering System
 A simple Q&A webapp made using streamlit to process text built using RoBerTa Model 🤗.
 
-
+[View lite version of app here live](https://huggingface.co/spaces/Harsh23Kashyap/QnA-System)
 
 https://user-images.githubusercontent.com/55448981/206790425-c7d4e057-70db-47a2-8308-1b4a6f6aa701.mp4
 
